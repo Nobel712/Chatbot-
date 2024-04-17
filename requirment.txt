@@ -3,3 +3,4 @@ langchain
 sentence-transformers
 pinecone-client
 flask
+pypdf
